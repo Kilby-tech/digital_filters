@@ -8,3 +8,4 @@ The FIR and IIR filters are the most common different types where filters are in
 
 This library will have different architecture of digital filters, not only enabling fast processing, but also providing information on the different architecture trade-offs as performance metrics of the filters, area and power consumption.
 
+Need to create initial filers and check-in
